@@ -1,0 +1,58 @@
+.container{
+    margin-bottom: 100px;
+}
+.jahid-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff4b93;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.cat-1 {
+    background-color: orange;
+
+}
+.cat-2 {
+    background-color: orchid;
+}
+.cat-3 {
+    background-color: blue;
+}
+
+.cat-1, .cat-2, .cat-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 15px;
+}
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: white;
+    border-top: none;
+}
+#subscriber{
+ height: 300px;
+}
+footer{
+    text-align: center;
+}
